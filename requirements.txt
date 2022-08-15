@@ -1,0 +1,4 @@
+#installation kubectl + kube qui va bien ...
+sudo apt install pip3
+pip3 install pyexpect
+pip3 install kubernetes
